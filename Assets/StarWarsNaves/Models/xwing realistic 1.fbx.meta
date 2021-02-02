@@ -1,0 +1,395 @@
+fileFormatVersion: 2
+guid: 4d5604e8b3761544da2a04d9f22a17be
+timeCreated: 1493715592
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera
+    100002: CameraLook
+    100004: Circle
+    100006: Circle.001
+    100008: Circle.002
+    100010: Circle.003
+    100012: Cylinder01_default
+    100014: Cylinder04_default
+    100016: Cylinder09_default
+    100018: Lamp
+    100020: Lamp.001
+    100022: Lamp.002
+    100024: Lamp.003
+    100026: Lamp.004
+    100028: Lamp.005
+    100030: Light03_None
+    100032: r2 eye_XW SIDE
+    100034: r2 head_BLUE GLASS
+    100036: seat_BIB BUMP MAP
+    100038: seat_CHROME
+    100040: seat_EYE
+    100042: seat_GREY MATTE
+    100044: seat_IRIS
+    100046: seat_LT BLUE PLSTC
+    100048: seat_ORANGE
+    100050: seat_PILOTBLACK MATTE
+    100052: seat_PUPIL
+    100054: seat_REBEL HELMET GRY
+    100056: seat_RED DECOR
+    100058: seat_SKIN
+    100060: seat_VISOR
+    100062: seat_WHITE SURFACE
+    100064: windows01_BLUE GLASS
+    100066: windows_CANOPY
+    100068: WX Body_XW DOWN
+    100070: WX Detail_XW BACK
+    100072: WX DOOR 01_XW DOWN
+    100074: WX DOOR 5_METAL REFLE
+    100076: WX etail I_ENGINE
+    100078: WX etail I_ENGINE 2
+    100080: WX etail I_INT ENG
+    100082: WX etail I_LASER
+    100084: WX etail I_WING BACK
+    100086: WX etail I_WING BOTT
+    100088: WX etail I_WING FRONT
+    100090: WX etail I_WING TOP
+    100092: WX etail02_PHOTON
+    100094: WX etail02_XW BACK
+    100096: WX etail02_XW DOWN
+    100098: WX etail02_XW SIDE
+    100100: WX etail02_XW TOP
+    100102: WX gear f_METAL REFLE
+    100104: WX L g 02_XW TOP
+    100106: WX L g 1_ENGINE
+    100108: WX L g 1_ENGINE 2
+    100110: WX L g 2_METAL REFLEX
+    100112: WX MOTOR_METAL REFLEX
+    100114: WX nose_ENGINE
+    100116: WX nose_ENGINE 2
+    100118: WX nose_INT ENG
+    100120: WX nose_LASER
+    100122: WX nose_WING BACK
+    100124: WX nose_WING BOTT
+    100126: WX nose_WING FRONT
+    100128: WX nose_WING TOP
+    100130: WX Nozze O_ENGINE
+    100132: WX Nozze O_ENGINE 2
+    100134: WX NozzelI_XW SIDE
+    100136: //RootNode
+    400000: Camera
+    400002: CameraLook
+    400004: Circle
+    400006: Circle.001
+    400008: Circle.002
+    400010: Circle.003
+    400012: Cylinder01_default
+    400014: Cylinder04_default
+    400016: Cylinder09_default
+    400018: Lamp
+    400020: Lamp.001
+    400022: Lamp.002
+    400024: Lamp.003
+    400026: Lamp.004
+    400028: Lamp.005
+    400030: Light03_None
+    400032: r2 eye_XW SIDE
+    400034: r2 head_BLUE GLASS
+    400036: seat_BIB BUMP MAP
+    400038: seat_CHROME
+    400040: seat_EYE
+    400042: seat_GREY MATTE
+    400044: seat_IRIS
+    400046: seat_LT BLUE PLSTC
+    400048: seat_ORANGE
+    400050: seat_PILOTBLACK MATTE
+    400052: seat_PUPIL
+    400054: seat_REBEL HELMET GRY
+    400056: seat_RED DECOR
+    400058: seat_SKIN
+    400060: seat_VISOR
+    400062: seat_WHITE SURFACE
+    400064: windows01_BLUE GLASS
+    400066: windows_CANOPY
+    400068: WX Body_XW DOWN
+    400070: WX Detail_XW BACK
+    400072: WX DOOR 01_XW DOWN
+    400074: WX DOOR 5_METAL REFLE
+    400076: WX etail I_ENGINE
+    400078: WX etail I_ENGINE 2
+    400080: WX etail I_INT ENG
+    400082: WX etail I_LASER
+    400084: WX etail I_WING BACK
+    400086: WX etail I_WING BOTT
+    400088: WX etail I_WING FRONT
+    400090: WX etail I_WING TOP
+    400092: WX etail02_PHOTON
+    400094: WX etail02_XW BACK
+    400096: WX etail02_XW DOWN
+    400098: WX etail02_XW SIDE
+    400100: WX etail02_XW TOP
+    400102: WX gear f_METAL REFLE
+    400104: WX L g 02_XW TOP
+    400106: WX L g 1_ENGINE
+    400108: WX L g 1_ENGINE 2
+    400110: WX L g 2_METAL REFLEX
+    400112: WX MOTOR_METAL REFLEX
+    400114: WX nose_ENGINE
+    400116: WX nose_ENGINE 2
+    400118: WX nose_INT ENG
+    400120: WX nose_LASER
+    400122: WX nose_WING BACK
+    400124: WX nose_WING BOTT
+    400126: WX nose_WING FRONT
+    400128: WX nose_WING TOP
+    400130: WX Nozze O_ENGINE
+    400132: WX Nozze O_ENGINE 2
+    400134: WX NozzelI_XW SIDE
+    400136: //RootNode
+    2300000: Circle
+    2300002: Circle.001
+    2300004: Circle.002
+    2300006: Circle.003
+    2300008: Cylinder01_default
+    2300010: Cylinder04_default
+    2300012: Cylinder09_default
+    2300014: Light03_None
+    2300016: r2 eye_XW SIDE
+    2300018: r2 head_BLUE GLASS
+    2300020: seat_BIB BUMP MAP
+    2300022: seat_CHROME
+    2300024: seat_EYE
+    2300026: seat_GREY MATTE
+    2300028: seat_IRIS
+    2300030: seat_LT BLUE PLSTC
+    2300032: seat_ORANGE
+    2300034: seat_PILOTBLACK MATTE
+    2300036: seat_PUPIL
+    2300038: seat_REBEL HELMET GRY
+    2300040: seat_RED DECOR
+    2300042: seat_SKIN
+    2300044: seat_VISOR
+    2300046: seat_WHITE SURFACE
+    2300048: windows01_BLUE GLASS
+    2300050: windows_CANOPY
+    2300052: WX Body_XW DOWN
+    2300054: WX Detail_XW BACK
+    2300056: WX DOOR 01_XW DOWN
+    2300058: WX DOOR 5_METAL REFLE
+    2300060: WX etail I_ENGINE
+    2300062: WX etail I_ENGINE 2
+    2300064: WX etail I_INT ENG
+    2300066: WX etail I_LASER
+    2300068: WX etail I_WING BACK
+    2300070: WX etail I_WING BOTT
+    2300072: WX etail I_WING FRONT
+    2300074: WX etail I_WING TOP
+    2300076: WX etail02_PHOTON
+    2300078: WX etail02_XW BACK
+    2300080: WX etail02_XW DOWN
+    2300082: WX etail02_XW SIDE
+    2300084: WX etail02_XW TOP
+    2300086: WX gear f_METAL REFLE
+    2300088: WX L g 02_XW TOP
+    2300090: WX L g 1_ENGINE
+    2300092: WX L g 1_ENGINE 2
+    2300094: WX L g 2_METAL REFLEX
+    2300096: WX MOTOR_METAL REFLEX
+    2300098: WX nose_ENGINE
+    2300100: WX nose_ENGINE 2
+    2300102: WX nose_INT ENG
+    2300104: WX nose_LASER
+    2300106: WX nose_WING BACK
+    2300108: WX nose_WING BOTT
+    2300110: WX nose_WING FRONT
+    2300112: WX nose_WING TOP
+    2300114: WX Nozze O_ENGINE
+    2300116: WX Nozze O_ENGINE 2
+    2300118: WX NozzelI_XW SIDE
+    3300000: Circle
+    3300002: Circle.001
+    3300004: Circle.002
+    3300006: Circle.003
+    3300008: Cylinder01_default
+    3300010: Cylinder04_default
+    3300012: Cylinder09_default
+    3300014: Light03_None
+    3300016: r2 eye_XW SIDE
+    3300018: r2 head_BLUE GLASS
+    3300020: seat_BIB BUMP MAP
+    3300022: seat_CHROME
+    3300024: seat_EYE
+    3300026: seat_GREY MATTE
+    3300028: seat_IRIS
+    3300030: seat_LT BLUE PLSTC
+    3300032: seat_ORANGE
+    3300034: seat_PILOTBLACK MATTE
+    3300036: seat_PUPIL
+    3300038: seat_REBEL HELMET GRY
+    3300040: seat_RED DECOR
+    3300042: seat_SKIN
+    3300044: seat_VISOR
+    3300046: seat_WHITE SURFACE
+    3300048: windows01_BLUE GLASS
+    3300050: windows_CANOPY
+    3300052: WX Body_XW DOWN
+    3300054: WX Detail_XW BACK
+    3300056: WX DOOR 01_XW DOWN
+    3300058: WX DOOR 5_METAL REFLE
+    3300060: WX etail I_ENGINE
+    3300062: WX etail I_ENGINE 2
+    3300064: WX etail I_INT ENG
+    3300066: WX etail I_LASER
+    3300068: WX etail I_WING BACK
+    3300070: WX etail I_WING BOTT
+    3300072: WX etail I_WING FRONT
+    3300074: WX etail I_WING TOP
+    3300076: WX etail02_PHOTON
+    3300078: WX etail02_XW BACK
+    3300080: WX etail02_XW DOWN
+    3300082: WX etail02_XW SIDE
+    3300084: WX etail02_XW TOP
+    3300086: WX gear f_METAL REFLE
+    3300088: WX L g 02_XW TOP
+    3300090: WX L g 1_ENGINE
+    3300092: WX L g 1_ENGINE 2
+    3300094: WX L g 2_METAL REFLEX
+    3300096: WX MOTOR_METAL REFLEX
+    3300098: WX nose_ENGINE
+    3300100: WX nose_ENGINE 2
+    3300102: WX nose_INT ENG
+    3300104: WX nose_LASER
+    3300106: WX nose_WING BACK
+    3300108: WX nose_WING BOTT
+    3300110: WX nose_WING FRONT
+    3300112: WX nose_WING TOP
+    3300114: WX Nozze O_ENGINE
+    3300116: WX Nozze O_ENGINE 2
+    3300118: WX NozzelI_XW SIDE
+    4300000: Circle.003
+    4300002: Circle.002
+    4300004: Circle.001
+    4300006: Circle
+    4300008: Light03_None
+    4300010: seat_VISOR
+    4300012: seat_WHITE SURFACE
+    4300014: seat_ORANGE
+    4300016: seat_SKIN
+    4300018: seat_PUPIL
+    4300020: seat_BIB BUMP MAP
+    4300022: seat_GREY MATTE
+    4300024: seat_RED DECOR
+    4300026: seat_PILOTBLACK MATTE
+    4300028: seat_REBEL HELMET GRY
+    4300030: seat_LT BLUE PLSTC
+    4300032: seat_CHROME
+    4300034: seat_EYE
+    4300036: seat_IRIS
+    4300038: r2 head_BLUE GLASS
+    4300040: windows01_BLUE GLASS
+    4300042: windows_CANOPY
+    4300044: r2 eye_XW SIDE
+    4300046: WX nose_WING FRONT
+    4300048: WX nose_INT ENG
+    4300050: WX nose_WING BACK
+    4300052: WX nose_WING BOTT
+    4300054: WX nose_ENGINE 2
+    4300056: WX nose_WING TOP
+    4300058: WX nose_LASER
+    4300060: WX nose_ENGINE
+    4300062: WX etail02_XW BACK
+    4300064: WX etail02_XW DOWN
+    4300066: WX etail02_PHOTON
+    4300068: WX etail02_XW SIDE
+    4300070: WX etail02_XW TOP
+    4300072: WX Body_XW DOWN
+    4300074: WX DOOR 01_XW DOWN
+    4300076: WX DOOR 5_METAL REFLE
+    4300078: WX L g 02_XW TOP
+    4300080: WX Detail_XW BACK
+    4300082: WX MOTOR_METAL REFLEX
+    4300084: WX gear f_METAL REFLE
+    4300086: WX L g 2_METAL REFLEX
+    4300088: WX L g 1_ENGINE 2
+    4300090: WX L g 1_ENGINE
+    4300092: WX Nozze O_ENGINE 2
+    4300094: WX Nozze O_ENGINE
+    4300096: WX NozzelI_XW SIDE
+    4300098: WX etail I_WING FRONT
+    4300100: WX etail I_INT ENG
+    4300102: WX etail I_WING BACK
+    4300104: WX etail I_WING BOTT
+    4300106: WX etail I_ENGINE 2
+    4300108: WX etail I_WING TOP
+    4300110: WX etail I_LASER
+    4300112: WX etail I_ENGINE
+    4300114: Cylinder01_default
+    4300116: Cylinder04_default
+    4300118: Cylinder09_default
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
